@@ -2,15 +2,8 @@
 **Start Score:** 24/50 | **Target:** 42/50 | **Exam:** June 11
 
 ## Score History
-| Date | Paper | Score | Time | Bugs Fixed |
-| --- | --- | --- | --- | --- |
-| Day 1 | 2018 | 24/50 | 2.5hrs | Started |
-| Day 7 | 2018 Retest |  |  |  |
+Day 1/28: Chem 24/50. Setup done. Bugs: moles, organic, rates. Next: moles drill Day 2
 
 ## Kill List – Current Bugs
 1. Moles – Can’t balance equations
 2. Organic – Bad at naming 
-3. Rates – Graph interpretation
-
-## Daily Log
-**Day 2:** Moles drill 2hrs. 12/20 questions correct.
