@@ -8,13 +8,19 @@
 2.
 3.
 
-## Kill List – Top 3 Only
-1. Essay – Structure weak
-2. Summary – Missing points
-3. Comprehension – Time management
+## Kill List
+1. 
+2. 
+3.
+
+## Bug list -
+1.
+2.
+3.
+
 
 ## Fix Log – Daily Updates
-Day 2: 30min essay plan. Topic: Social media. 
+Day 2: 
 
 
 
