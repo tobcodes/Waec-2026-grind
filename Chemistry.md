@@ -11,6 +11,10 @@ Day 1/28: 2014 Chem 24/50.  Bugs: moles, organic, rates. moles drill next day (2
 3.
 
 ## Bug list -
+1.
+2.
+3.
+
 
 ## Fix Log – Daily Updates
 Day 2: 
