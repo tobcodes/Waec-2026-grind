@@ -5,6 +5,14 @@
 | Date | Day | Paper | Score | Time | Bugs Hit | Status |
 
 
+## Bug list -
+1.
+2.
+3.
+4.
+
+
+
 
 ## Kill List –
 1. 
