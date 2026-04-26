@@ -1,4 +1,4 @@
-# Waec-2026-grind
+# WAEC-2026-GRIND
 28 day grind to 5 credits 
 # WAEC 2026 Grind – 28 Days to 5 Credits
 **Start:** April 26, 2026 | **Chem Practical:** May 20 = 24 days left
@@ -28,3 +28,4 @@
 Geography, Agric, *P2(Civic, Economics)* – Focus 5 > Fail 9
 
 Commit every day 9pm or streak = 0
+
