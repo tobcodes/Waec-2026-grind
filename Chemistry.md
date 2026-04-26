@@ -2,8 +2,10 @@
 **Start Score:** 24/50 | **Target:** 42/50 | **Exam:** June 11
 
 ## Score Tracker 
-| Date | Day | Paper | Score | Bugs Hit | Status | target bug
-Day 1/28: 2014 Chem 24/50.  Bugs: moles, organic, rates. moles drill next day (2)
+| Date | Day | Paper | Score | Bugs Hit | Status | status 
+Day 1/28: 2014 Chem 24/50.   moles, organic, rates. --
+
+
 
 ## Kill List – 
 1. 
