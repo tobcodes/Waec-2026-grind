@@ -11,7 +11,7 @@
 3. mathematics 
 4. English 
 
-# P1 - Biology (start once P0 get prefect)
+# P1 - Biology (start once P0 gets prefect)
 # P2 - Civic and economics ( study 7days to exam date)
 
 
